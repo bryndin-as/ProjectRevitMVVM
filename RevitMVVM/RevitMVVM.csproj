@@ -55,6 +55,7 @@
     <Compile Include="Infrastructure\Commands\Base\Command.cs" />
     <Compile Include="Infrastructure\Commands\LambdaCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\WindWPFViewModel.cs" />
     <Compile Include="Views\Windows\WIndWPF.xaml.cs">
       <DependentUpon>WIndWPF.xaml</DependentUpon>
     </Compile>
